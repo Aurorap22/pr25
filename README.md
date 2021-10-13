@@ -1,1 +1,1 @@
-# pr25
+# project-C24-template
